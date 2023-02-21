@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# Getting Started with Users-feed
+Run below command
 ### `npm install`
 Once the packages are loaded you can see node_modules
 
