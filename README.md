@@ -1,8 +1,8 @@
 # Getting Started with Create React App
-In the project directory, you can run:
 
-Once the packages are loaded you can see node_modules
 ### `npm install`
+Once the packages are loaded you can see node_modules
+
 
 In the project directory, you can run:
 
